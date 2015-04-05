@@ -7,3 +7,4 @@ My favourite videogame is Halo 2.
 I have taken both CS 161 and 162 and learned C++.
 I have also started learning Python - I'm a big fan so far.
 I hope to build my own computer in the near future.
+I am quitting my job on Monday to become a full-time student.
